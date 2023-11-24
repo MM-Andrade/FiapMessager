@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{34706860-1376-4347-A120-E73256AE7EFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Produtor", "Produtor\Produtor.csproj", "{3D203114-3864-42D5-98EE-7C2AF5D0FD5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumidor", "Consumidor\Consumidor.csproj", "{A0A757E2-8376-43DB-AA2A-2B0E1B64519B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34706860-1376-4347-A120-E73256AE7EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34706860-1376-4347-A120-E73256AE7EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34706860-1376-4347-A120-E73256AE7EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34706860-1376-4347-A120-E73256AE7EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D203114-3864-42D5-98EE-7C2AF5D0FD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D203114-3864-42D5-98EE-7C2AF5D0FD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D203114-3864-42D5-98EE-7C2AF5D0FD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D203114-3864-42D5-98EE-7C2AF5D0FD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A757E2-8376-43DB-AA2A-2B0E1B64519B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A757E2-8376-43DB-AA2A-2B0E1B64519B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A757E2-8376-43DB-AA2A-2B0E1B64519B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A757E2-8376-43DB-AA2A-2B0E1B64519B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C701F34-F391-4878-9AAF-D8095E1F21E6}
+	EndGlobalSection
+EndGlobal
